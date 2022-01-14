@@ -28,7 +28,7 @@
 
 ---
 
-![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaKansal&count_private=true&hide=commits,prs,contribs&show_icons=true)
+![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaKansal&count_private=true&hide=stars,issues&show_icons=true)
 
 ---
 
