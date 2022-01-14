@@ -29,4 +29,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/tanya-kansal
-[gmail]: tanyakansal218@gmail.com
+[gmail]: https://mail.google.com/mail/u/?authuser=tanyakansal218@gmail.com
