@@ -26,7 +26,13 @@
 <br />
 <br />
 
+---
 
+![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaKansal&count_private=true&hide=commits,prs,contribs&show_icons=true)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaKansal)](https://github.com/TanyaKansal/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/tanya-kansal
 [gmail]: mailto:tanyakansal218@gmail.com?
