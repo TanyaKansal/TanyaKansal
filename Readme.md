@@ -16,15 +16,13 @@
 ### Language and Tools:
 
 [<img align="left" alt="GitHub" width="26px" src="images/icons/github.png" />]
-[<img align="left" alt="Python" width="26px" src="images/icons/python_log.png" />]
+[<img align="left" alt="Python" width="26px" src="images/icons/python_log.jpeg" />]
 [<img align="left" alt="OpenCV" width="26px" src="images/icons/opencv.png" />]
 [<img align="left" alt="Ansible" width="26px" src="images/icons/ansible.png" />]
 [<img align="left" alt="Docker" width="26px" src="images/icons/docker.jpeg" />]
 [<img align="left" alt="Kubernetes" width="26px" src="images/icons/kubernetes.png" />]
 [<img align="left" alt="Grafana" width="26px" src="images/icons/grafana.png" />]
 [<img align="left" alt="Influxdb" width="26px" src="images/icons/influxdb.jpeg" />]
-
-
 <br />
 <br />
 
