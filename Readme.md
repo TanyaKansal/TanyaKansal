@@ -1,7 +1,7 @@
 ### Hi there, I'm Tanya 👋
 
 ## I'm a Developer and looking forward to exploring new technologies!!
-- 🔭 I'm currently working as a Software Engineer in HSBC.
+- 🔭 I'm currently working as a Senior Software Engineer in HSBC.
 - 🌱 I’m currently learning everything 🤣 
 - 🥅 2022 Goals: Start contributing to Open Source Software.
 - ⚡ Fun Fact: I like dancing and reading books.
